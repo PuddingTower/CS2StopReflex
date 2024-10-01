@@ -1,6 +1,7 @@
 ![image](https://github.com/user-attachments/assets/bc1b8da1-6dc4-43f0-861e-324c517ca0d2)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/943b62b2-9621-4622-b7ec-2ba449f31d7a)
+
 
 # CS2StopReflex
 A tool to analyze and improve your strafing and quick-stop timing in CS2. Enhance your in-game movement precision by visualizing your A/D key press timing.
