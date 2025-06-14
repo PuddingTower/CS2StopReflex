@@ -1,3 +1,13 @@
+# -*- coding: utf-8 -*-
+#
+# CS2 急停评估工具
+#https://space.bilibili.com/13723713
+# Copyright (c) 2025 PuddingTower.
+#
+# This software is licensed under the MIT License.
+# See the LICENSE file for more details.
+#
+
 import sys
 import os
 import time
